@@ -1,0 +1,4 @@
+Contact: mailto:enquiries@harringtonverve.com
+Expires: 2027-11-05T00:00:00.000Z
+Preferred-Languages: en, es
+Canonical: https://harringtonverve.com/.well-known/security.txt
